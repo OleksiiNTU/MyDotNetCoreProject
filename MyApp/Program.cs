@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("Hello from main!");
-        GreetUser("User");
+        GreetUser("Student");
     }
 
     static void GreetUser(string name)
